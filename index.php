@@ -6,5 +6,6 @@
     else {
         echo "链接失败";
     }
+    echo print_r($_POST);
 ?>
 
