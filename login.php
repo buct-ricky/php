@@ -17,7 +17,7 @@
             <input type="submit" name="login" value="登录">
             <a href="register.php" target="rgt">注册</a><br><br />
         </form>
-        <div style="color: #13d0ff;font-size: 12PX;" class="copyrights">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;© 版权所有 计科1302第二小组</div>
+        <div style="color: #13d0ff;font-size: 12PX;" class="copyrights">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;© 版权所有 计科1302徐阳小组</div>
     </div>
 </body>
 </html>
